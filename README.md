@@ -47,9 +47,8 @@ Hi, I'm Aaditya Dileep 👋
 
 ## 📬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/aadityadileep](https://www.linkedin.com/in/aaditya-dileep/))
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](gmail:aadityadileep@gamil.com)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-dileep)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aadityadileep@gmail.com)
 
 *Currently learning: Git, GitHub, FastAPI, Streamlit*
 *Open to: Internships, Freelance AI projects*
