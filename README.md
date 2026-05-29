@@ -2,7 +2,7 @@ Hi, I'm Aaditya Dileep 👋
 
 🤖 AI Engineer in Training | Python Developer
 🎯 Building intelligent systems with LLMs & Agents
-📍 Surat, Gujarat, India
+📍 Vapi, Gujarat, India
 🎓🎓 B.Tech (AI/ML) — Incoming Student
 
 🧠 What I Build
